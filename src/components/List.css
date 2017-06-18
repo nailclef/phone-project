@@ -1,0 +1,14 @@
+.row {width: 800px; margin: 60px auto;}
+
+.title input{
+    width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;/*패딩으로 820을 800d안으로 영역을 넣어 보이기를 780으로 한다*/
+    height: 60px;
+    font-size: 30px;
+    background: none;
+    border: 0;
+    border-bottom: 1px dotted #eee;
+    color: #bbb;
+    outline: none;/*선택시 아웃라인이 생기는걸 없앰*/
+}
